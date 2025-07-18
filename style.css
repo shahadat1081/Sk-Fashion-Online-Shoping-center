@@ -169,15 +169,21 @@ footer{
 .footer-cool {
    display: flex;
    justify-content: space-around;
+   text-align: center;
+   
 }
 .footer-link span{
     font-weight: bold;
+    text-align: center;
     
 }
 .footer-link h3{
     font-weight: bold;
-    margin-bottom: 1.5rem;
+    margin-bottom: 1.2rem;
     
+}
+.footer-link{
+    padding: 1rem;
 }
 
 .footer-bottom{
