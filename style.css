@@ -12,6 +12,8 @@ body{
 html{
     scroll-behavior: smooth;
 }
+
+
 .marque{
     font-size: 2rem;
     font-weight: bold;
