@@ -234,10 +234,10 @@ footer{
     .marque{
         font-size: 18px;
     }
-    .stylist{
-        display: none;
+   
+    .free{
+        font-size: 1.5rem;
     }
-
     .categories{
         width: 100%;
         padding: 2rem;
@@ -322,8 +322,8 @@ footer{
   .marque{
         font-size:18px;
     }
-    .stylist{
-        display: none;
+     .free{
+        font-size: 1.7rem;
     }
 
     .categories{
